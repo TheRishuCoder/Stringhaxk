@@ -52,12 +52,12 @@ info = """
 PM_BUTTON = IKM([
     [IKB(" •─╼⃝𖠁 ʜ ᴀ ᴄ ᴋ 𖠁⃝╾─•", callback_data="hack_btn")],
     [
-        InlineKeyboardButton("˹ υᴘᴅᴧᴛє ˼", url="https://t.me/Ur_rishu_143"),
-        InlineKeyboardButton("˹ sυᴘᴘσꝛᴛ ˼", url="https://t.me/ur_support07")
+        IKB("˹ υᴘᴅᴧᴛє ˼", url="https://t.me/Ur_rishu_143"),
+        IKB("˹ sυᴘᴘσꝛᴛ ˼", url="https://t.me/ur_support07")
     ],
     [
-        InlineKeyboardButton("˹ ᴧʟʟ ᴧᴘɪ ˼", url="https://t.me/RishuApi"),
-        InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/Vip_robotz/4")
+        IKB("˹ ᴧʟʟ ᴧᴘɪ ˼", url="https://t.me/RishuApi"),
+        IKB("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/Vip_robotz/4")
     ]
 ])
 
